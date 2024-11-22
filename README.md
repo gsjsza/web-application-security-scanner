@@ -1,23 +1,5 @@
 # web-application-security-scanner
 A web application security scanner to detect vulnerabilities like SQL injection and XSS
-Yes, I recommend updating your `README.md` to include the improvements I suggested. This will make it clearer and more comprehensive for anyone who visits your GitHub repository. A well-documented README helps others understand the project, how to set it up, how to use it, and how they can contribute.
-
-Here's a summary of the steps you'll need to follow to update your `README.md`:
-
-1. **Open your `README.md` file**:
-   - Go to your GitHub repository.
-   - Find and click on the `README.md` file.
-   - Click on the **pen** icon to edit the file.
-
-2. **Copy the Suggested Changes**:
-   - Replace the existing content of the `README.md` with the updated version I provided (or you can manually add the sections you find useful).
-   
-3. **Preview the Changes**:
-   - GitHub provides a **Preview** button to check how your changes will look before committing.
-   
-4. **Commit the Changes**:
-   - Once you're happy with the updates, scroll down and add a **commit message** like "Update README with detailed instructions".
-   - Choose the option to **commit directly** to the `main` branch (or the appropriate branch if you’re working on one).
 
 ### Example of the updated `README.md` content:
 
